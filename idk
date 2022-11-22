@@ -1,0 +1,3 @@
+cd Documents // navigates from home to "Documents" folder
+mkdir portfolios // creates "portfolios" folder inside Documents
+cd portfolios // navigates inside the created folder "portfolios"
